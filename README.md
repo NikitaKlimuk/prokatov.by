@@ -1,7 +1,7 @@
 # prokatov.by
 Service for the rental of sports equipment, camping equipment, cleaning equipment and other devices.
 
-The site is developed on the engine Wordpress, with the connection of various plugins (WooCommerce, Elementor, Yoast SEO and others). During the life of the site, the possibility of online ordering, automatic synchronization with the warehouse, mobile optimization and other useful features have been implemented. During the first year, the site reached the first positions in all key search queries, thanks to the competent work with SEO. The business worked entirely on incoming requests from the search, without the use of Internet advertising.
+The site is developed on the engine Wordpress, with the connection of various plugins (WooCommerce, Elementor, Yoast SEO and others). During the lifetime of the site, the possibility of online ordering, automatic synchronization with the warehouse, mobile optimization and other useful features have been implemented. During the first year, the site reached the first positions in all key search queries, thanks to the competent work with SEO. The business worked entirely on incoming requests from the search, without the use of Internet advertising.
 
 At the moment the site is located on the local server, if necessary, it can be launched.
 
