@@ -7,7 +7,9 @@ At the moment the site is located on the local server, if necessary, it can be l
 
 Below are screenshots showing basic information about the site.
 
+###### Home page
 <img width="1680" alt="main page" src="https://user-images.githubusercontent.com/44801567/204659219-752d661d-eb18-44ee-b976-3f8d6ad30786.png">
+
 <img width="1341" alt="main menu" src="https://user-images.githubusercontent.com/44801567/204758941-5af930bf-93e2-4779-b850-4eb46cc3982c.png">
 <img width="935" alt="hero section" src="https://user-images.githubusercontent.com/44801567/204758833-375825c9-deb8-44a2-88ff-6a552dff2da4.png">
 <img width="956" alt="latest product catalog" src="https://user-images.githubusercontent.com/44801567/204758906-8931b6e9-efc3-4451-a342-3b2ea44459d0.png">
