@@ -1,6 +1,9 @@
 # prokatov.by
 Service for the rental of sports equipment, camping equipment, cleaning equipment and other devices.
 
+Technology Stack:
+Javascript, HTML, CSS, Wordpress, PhpMyAdmin, MySQL
+
 The site is developed on the engine Wordpress, with the connection of various plugins (WooCommerce, Elementor, Yoast SEO and others). During the lifetime of the site, the possibility of online ordering, automatic synchronization with the warehouse, mobile optimization and other useful features have been implemented. During the first year, the site reached the first positions in all key search queries, thanks to the competent work with SEO. The business worked entirely on incoming requests from the search, without the use of Internet advertising.
 
 At the moment the site is located on the local server, if necessary, it can be launched.
@@ -8,7 +11,7 @@ At the moment the site is located on the local server, if necessary, it can be l
 Below are screenshots showing basic information about the site.
 
 ## Home page
-<img width="1680" alt="main page" src="https://user-images.githubusercontent.com/44801567/204659219-752d661d-eb18-44ee-b976-3f8d6ad30786.png">
+<img width="1680" alt="main page" src="https://user-images.githubusercontent.com/44801567/204764059-a6543387-70bb-40d1-b440-c47605d065be.png">
 
 ## Main menu
 <img width="1341" alt="main menu" src="https://user-images.githubusercontent.com/44801567/204758941-5af930bf-93e2-4779-b850-4eb46cc3982c.png">
